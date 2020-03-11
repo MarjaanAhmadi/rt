@@ -1,0 +1,28 @@
+.inputs {
+    width: 12%;
+    padding: 0px 10px;
+}
+.inputs.time-picker {
+    direction: ltr !important;
+}
+.inputs .form-control {
+    height: 30px;
+    font-size: 12px;
+    border: 1px solid #ddd !important;
+}
+.rc-time-picker-panel-select ul{
+    display: unset !important;
+}
+.rc-time-picker-panel-select li {
+    font-family: iransans !important;
+}
+.rc-time-picker-panel-input {
+    font-family: iransans !important;
+}
+.icon-size {
+    font-size: 26px !important;
+    color: #6b3586;
+}
+.rc-time-picker-clear{
+    display: none !important;
+}

@@ -1,0 +1,5 @@
+.optionListContainer .optionContainer {
+    display: unset !important;
+    text-align: right;
+    float: right;
+}

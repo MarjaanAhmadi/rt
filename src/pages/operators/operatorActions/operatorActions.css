@@ -1,0 +1,8 @@
+.searchBox {
+    border: none;
+    font-size: 10px;
+    max-height: 30px;
+}
+.optionListContainer .optionContainer {
+    width: 100% !important;
+}
